@@ -1,41 +1,37 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
-> Description the project.
+> A project by Microverse to learn the basic fundamentals of Git and github for remote programming.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- Html
+- Css
+- Git
+- Github
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+- Html
+- Css
+- Git
+- Github
 
-### Setup
 
 ### Install
+1. Clone the repo and ```cd``` into it.
+2. ```npm install```
 
-### Usage
 
 ### Run tests
-
-### Deployment
-
+1. For HTML run ```npx hint .```
+2. For CSS run ```npx stylelint "**/*.{css,scss}"```
 
 
 ## Authors
@@ -56,7 +52,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/alphayowakarindi/Hello-Microverse/issues).
 
 ## Show your support
 
@@ -64,9 +60,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- A big thank you to Microverse Organization anyone whose code was used for creating this project to help others to learn Git and Github in a fun way
 
 ## 📝 License
 
