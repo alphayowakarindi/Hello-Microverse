@@ -42,6 +42,7 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@twitterhandle](https://twitter.com/alphayowakarind)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/alphayo-wakarindi-15a825236/)
 
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
