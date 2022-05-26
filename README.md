@@ -34,19 +34,13 @@ To get a local copy up and running follow these simple example steps.
 2. For CSS run ```npx stylelint "**/*.{css,scss}"```
 
 
-## Authors
+## Author
 
-👤 **Author1**
+👤 **Alphayo Wakarindi**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/alphayowakarindi/)
+- Twitter: [@twitterhandle](https://twitter.com/alphayowakarind)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alphayo-wakarindi-15a825236/)
 
 ## 🤝 Contributing
 
